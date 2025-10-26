@@ -1,0 +1,7 @@
+{
+  "name": "PlanBuddy",
+  "description": "An AI-powered assistant to help friends plan and coordinate group outings, movie nights, and trips. It provides personalized suggestions, manages group preferences, and includes a voting system to make decision-making easy and fun.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
